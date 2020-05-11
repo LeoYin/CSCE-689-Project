@@ -1,0 +1,19 @@
+0 drinking
+1 eating
+2 reading book
+3 calling cellphone
+4 writing on a paper
+5 using laptop
+6 using vacuum cleaner
+7 cheering up
+8 sitting still
+9 tossing paper
+10 playing game
+11 lying down on sofa
+12 walking
+13 playing guitar
+14 standing up
+15 siting down
+16 reading phone
+17 using remote
+18 negative

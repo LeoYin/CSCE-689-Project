@@ -9,7 +9,7 @@ I use the dataset collected from the public action video datasets, such as ORGBD
 ### Step1: Download the videos with extension '.avi' into the folder /test/test_videos
 ### Step2: Download the trained model into the folder /model_checkpoints and rename the model as 'ConvLSTM.pth' 
 
-The link of the trained model is [here](https://drive.google.com/open?id=1bPpS4-YTzK8-m3hYs7jtjPOdXBN9YkEj)
+The link of the trained model is [here](https://drive.google.com/open?id=1EEye55ovV05Y1UeoteiyLY0jXtLPrlYh)
 
 ### Step3: Run
 ```
